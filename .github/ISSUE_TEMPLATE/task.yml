@@ -1,6 +1,7 @@
 name: Task
 description: Work that is not a bug or a new feature, such as a chore or an improvement.
 type: Task
+projects: ["usespotlightai/1"]
 body:
   - type: textarea
     id: what

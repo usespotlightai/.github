@@ -1,6 +1,7 @@
 name: Bug
 description: Something does not work as documented.
 type: Bug
+projects: ["usespotlightai/1"]
 body:
   - type: textarea
     id: what

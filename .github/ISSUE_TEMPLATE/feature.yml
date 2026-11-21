@@ -1,6 +1,7 @@
 name: Feature
 description: A new capability.
 type: Feature
+projects: ["usespotlightai/1"]
 body:
   - type: textarea
     id: problem

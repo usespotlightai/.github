@@ -6,7 +6,7 @@ Each repository has its own setup. Read the `CONTRIBUTING.md` of the repository 
 
 - Open the issue in the repository whose code the change touches.
 - For work across repositories, open a parent issue in `spotlight` and add sub-issues in the other repositories.
-- All issues go on the [Spotlight project](https://github.com/orgs/usespotlightai/projects). The project holds status, priority and feature.
+- All issues go on the [Spotlight project](https://github.com/orgs/usespotlightai/projects/1). The project holds status, priority and feature.
 
 ## Pull requests
 
