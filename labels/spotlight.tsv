@@ -1,0 +1,5 @@
+area: web	1d76db	Web app
+area: control plane	0e8a16	Control plane
+area: data plane	fbca04	Runner, relay, egress, sandboxes
+area: desktop	c5def5	Desktop app
+area: cli	bfdadc	spotlight CLI

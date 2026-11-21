@@ -1,0 +1,5 @@
+needs decision	d93f0b	Waits on a product or design decision
+blocked outside	b60205	Waits on something outside this org
+staging apply	5319e7	Needs a manual apply on staging after merge
+good first issue	7057ff	Good for newcomers
+help wanted	008672	Extra attention is needed
